@@ -1,6 +1,9 @@
 # Sigma Live — Track 1: Supply Chain & Demand Planning
 ### Veeco Systems · New Graduate Analytics Assignment
 
+## Live Demo
+https://sigma-live.vercel.app
+
 ## What This Is
 A dual-application operational ecosystem simulating the Sigma Computing + Snowflake live write-back paradigm, applied to semiconductor supply chain management.
 
