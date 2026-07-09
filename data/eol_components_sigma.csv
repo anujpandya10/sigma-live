@@ -1,0 +1,9 @@
+id,name,partNumber,supplier,category,eolStatus,eolDate,stock,monthlyConsumption,unitCost,runOutMonths,financialExposure,affectedPlatforms,mitigationStatus,alternativePartNumber,urgency,notes
+E001,IGBT Power Module FF450R12,FF450R12KE4,Infineon Technologies,Power Electronics,EOL Announced,2026-10-15,24,4,850,6.0,20400,"TurboDisc K465i, Nexus HDP",Researching,,HIGH,
+E002,Legacy DSP Controller OMAP3530,OMAP3530ECUS,Texas Instruments,Control Systems,End of Life,2024-06-30,8,1,4200,8.0,33600,"TurboDisc K465i, Legacy Systems",No Action,,CRITICAL,
+E003,Quartz Viewport Assembly 6in,QVA-6-UHV-AR,Heraeus Quarzglas,Optical Components,EOL Announced,2026-08-31,6,2,3800,3.0,22800,"Propel MOCVD, MBE 49",Alt. Found,QVA-6-UHV-AR-V2,CRITICAL,Alternative qualified pending procurement approval
+E004,Cryopump Compressor Unit,CP-8-B-WC,Brooks Automation,Vacuum Systems,Discontinued,2025-12-01,3,0.5,12500,6.0,37500,MBE 49,Researching,,CRITICAL,
+E005,MOSFET Gate Driver IR2110,IR2110STRPBF,Infineon (ex-IR),Power Electronics,EOL Announced,2027-03-31,450,30,8.5,15.0,3825,"TurboDisc K465i, Propel MOCVD, Nexus HDP",Alt. Found,IRS2110STRPBF,MEDIUM,Drop-in replacement identified
+E006,RF Impedance Match Network,IMN-13-300-LH,Comdel Inc,RF Systems,Active,,12,1,6800,999.0,81600,Nexus HDP,No Action,,LOW,
+E007,Sapphire Susceptor Disc 8in,SSD-8-0001-A,Saint-Gobain Crystals,Process Hardware,EOL Announced,2026-09-30,18,3,2100,6.0,37800,"TurboDisc K465i, Propel MOCVD",No Action,,HIGH,
+E008,High-Temp Thermocouple Assy,TC-K-INS-HT-1200,Omega Engineering,Measurement,Active,,85,8,145,10.6,12325,"TurboDisc K465i, Propel MOCVD, MBE 49",No Action,,LOW,
